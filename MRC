@@ -1,0 +1,2 @@
+#! /bin/bash
+python $HOME/project/src/Main.py $HOME/project/data/selected_data.txt
